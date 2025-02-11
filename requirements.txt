@@ -27,4 +27,4 @@ peft
 pillow
 sentencepiece
 termcolor
-transformers==4.45.0
+transformers==4.48.0
